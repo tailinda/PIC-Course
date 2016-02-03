@@ -2,6 +2,8 @@
 #include  "main.h"
 #include  "LCD.h"
 
+//§Ú¬OÀ¹µÙ¼ztest 
+
 union{
 	struct{
 		unsigned bit0:1;
