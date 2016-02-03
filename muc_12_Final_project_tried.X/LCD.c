@@ -4,6 +4,11 @@
 
 //�ڬO���ټztest 
 
+
+
+
+
+
 union{
 	struct{
 		unsigned bit0:1;
